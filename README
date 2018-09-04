@@ -1,3 +1,7 @@
+Username and passowrd for conncet to phpMyAdmin they are user and password of Mysql. 
+You can find the hostname in config.inc.php($cfg['Servers'][$i]['host'] = 'mysql';)
+
+
 phpMyAdmin - Readme
 ===================
 
